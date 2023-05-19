@@ -12,10 +12,8 @@ status of all files must be verified prior to further analysis since the server'
 few files might result in the loss of findings from those files. In this assignment, sequence
 alignment was utilized to determine the similarity between 10 .fastq files from 10 freshwater
 burbot and two reference genomes, including fragmented burbot genomes and a complete
-freshwater cod genome, which is related to the burbot. Next, we compare the proportion of
-hits to each reference genome and quantify individual variance. Alignments are performed
-using both bwa and bowtie2 software. Hence, we can observe the influence of software on the
-alignments and determine if software plays a significant role in the sequence alignment. Hence,
+freshwater cod genome, which is related to the burbot. Next, we compare the proportion of hits to each reference genome and quantify individual variance. 
+Alignments are performed using both bwa and bowtie2 software. Hence, we can observe the influence of software on the alignments and determine if software plays a significant role in the sequence alignment. Hence,
 we can observe the influence of software on the alignments and determine if software plays a
 significant role in the sequence alignment. The benefits and drawbacks of aligning genomes to
 distantly related genomes vs genomes from the same species vary. Because the fragmented
